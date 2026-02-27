@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Student 
 
 profile:
   align: right
@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate at the Department of Electrical and Computer Engineering (ECE), the University of Hong Kong (HKU) (Sep 2023 - Jun 2027), supervised by Prof. Wei-Ning Lee.
+I am a Ph.D. candidate at the <a href='https://www.eee.hku.hk/'>Department of Electrical and Computer Engineering (ECE)</a>, the University of Hong Kong (HKU), from Sep 2023 to Jun 2027, supervised by <a href='https://www.eee.hku.hk/'>Prof. Wei-Ning Lee</a>.
 
-My research interests include Computer Vision, Deep Learning, and Medical Image Processing (especially Ultrasound Image).
+My research interests include Computer Vision, Deep Learning, and Medical Image Processing, especially for Ultrasound Images.
