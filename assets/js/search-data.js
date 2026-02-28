@@ -26,8 +26,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7.html";
-            },},{id: "news-paper-accepted-at-computer-vision-and-pattern-recognition-conference-cvpr-challenge",
-          title: 'Paper accepted at *Computer Vision and Pattern Recognition Conference (CVPR) Challenge*',
+            },},{id: "news-paper-accepted-at-2024-computer-vision-and-pattern-recognition-conference-cvpr",
+          title: 'Paper accepted at 2024 Computer Vision and Pattern Recognition Conference (CVPR)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5.html";
