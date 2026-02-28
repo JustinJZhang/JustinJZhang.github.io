@@ -199,8 +199,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Zhang]
-  first_name: [Jiajing]
+  last_name: Zhang
+  first_name: Jiajing
 
   style: apa
   locale: en
