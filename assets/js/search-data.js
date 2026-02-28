@@ -41,8 +41,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_8.html";
-            },},{id: "news-oral-presented-at-ieee-international-symposium-on-biomedical-imaging-isbi",
-          title: 'Oral presented at *IEEE International Symposium on Biomedical Imaging (ISBI)*',
+            },},{id: "news-oral-presented-at-2025-ieee-international-symposium-on-biomedical-imaging-isbi",
+          title: 'Oral presented at 2025 IEEE International Symposium on Biomedical Imaging (ISBI)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4.html";
