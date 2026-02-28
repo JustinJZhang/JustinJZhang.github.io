@@ -21,8 +21,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-paper-accepted-at-npj-artificial-intelligence",
-          title: 'Paper accepted at *npj Artificial Intelligence*',
+            },},{id: "news-paper-accepted-at-ieee-journal-of-biomedical-and-health-informatics",
+          title: 'Paper accepted at *IEEE Journal of Biomedical and Health Informatics*',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3.html";
