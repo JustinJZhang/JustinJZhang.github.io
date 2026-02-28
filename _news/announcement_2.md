@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper accepted at *IEEE Transactions on Ultrasonics*
+title: Paper accepted at IEEE Transactions on Ultrasonics
 date: 2025-12-29 00:00:00-0400
 inline: false
 related_posts: false
