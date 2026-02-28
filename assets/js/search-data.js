@@ -46,6 +46,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4.html";
+            },},{id: "news-oral-presented-at-2025-ieee-international-ultrasonics-symposium-ius",
+          title: 'Oral presented at *2025 IEEE International Ultrasonics Symposium (IUS)*',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_9.html";
             },},{id: "news-paper-accepted-at-ieee-journal-of-biomedical-and-health-informatics",
           title: 'Paper accepted at *IEEE Journal of Biomedical and Health Informatics*',
           description: "",
@@ -56,11 +61,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "news-paper-accepted-at-ieee-transactions-on-ultrasonics",
-          title: 'Paper accepted at *IEEE Transactions on Ultrasonics*',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_9.html";
             },},{id: "news-paper-accepted-at-npj-artificial-intelligence",
           title: 'Paper accepted at *npj Artificial Intelligence*',
           description: "",
