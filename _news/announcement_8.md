@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oral presented at *2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium*"
+title: "Oral presented at 2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (IUS)
 date: 2024-09-22 00:00:00-0400
 inline: false
 related_posts: false
