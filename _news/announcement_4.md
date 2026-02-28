@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oral presented at *IEEE International Symposium on Biomedical Imaging (ISBI)*
+title: Oral presented at 2025 IEEE International Symposium on Biomedical Imaging (ISBI)
 date: 2025-04-14 00:00:00-0400
 inline: false
 related_posts: false
