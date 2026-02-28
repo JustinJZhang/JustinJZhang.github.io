@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Paper accepted at *Computer Vision and Pattern Recognition Conference (CVPR) Challenge*
+title: Paper accepted at 2024 Computer Vision and Pattern Recognition Conference (CVPR)
 date: 2024-06-17 00:00:00-0400
 inline: false
 related_posts: false
 ---
 
-#### Lite class-prompt tiny-vit for multi-modality medical image segmentation
+#### Lite class-prompt tiny-vit for multi-modality medical image segmentation (challenge paper)
 
 Haotian Guan, Bingze Dai, Jiajing Zhang
 
