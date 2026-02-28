@@ -159,7 +159,7 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
-  - jekyll/scholar
+  - jekyll/
   - jekyll-sitemap
   - jekyll-socials
   - jekyll-tabs
@@ -199,8 +199,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Zhang]
+  first_name: [Jiajing]
 
   style: apa
   locale: en
