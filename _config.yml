@@ -44,12 +44,6 @@ external_services:
   github_profile_trophy_url: https://github-profile-trophy.vercel.app
 
 # -----------------------------------------------------------------------------
-# RSS Feed
-# -----------------------------------------------------------------------------
-# will use title and url fields
-# Take a look to https://github.com/jekyll/jekyll-feed for more customization
-
-# -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
 
