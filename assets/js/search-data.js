@@ -62,7 +62,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3.html";
             },},{id: "news-paper-accepted-at-ieee-transactions-on-ultrasonics",
-          title: 'Paper accepted at *IEEE Transactions on Ultrasonics*',
+          title: 'Paper accepted at IEEE Transactions on Ultrasonics',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
