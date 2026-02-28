@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper accepted at *npj Artificial Intelligence*
+title: Paper accepted at *IEEE Journal of Biomedical and Health Informatics*
 date: 2025-09-18 00:00:00-0400
 inline: false
 related_posts: false
@@ -10,7 +10,7 @@ related_posts: false
 
 Jiajing Zhang, Bingze Dai, Haotian Guan, Wei-Ning Lee
 
-[PDF](/assets/pdf/zhang2025msaf.pdf)
+URL: https://ieeexplore-ieee-org.eproxy.lib.hku.hk/abstract/document/11172283
 
 ---
 
