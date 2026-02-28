@@ -10,7 +10,7 @@ related_posts: false
 
 Jyun-Ping Kao, Jiajing Zhang, Wei-Ning Lee, Chung-Ping Chen, Lawrence Chun-Man Lau
 
-[PDF](/assets/pdf/kao2026novel.pdf){:target="_blank" .btn .btn-primary}
+[PDF](/assets/pdf/kao2026novel.pdf)
 
 ---
 
