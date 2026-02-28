@@ -21,6 +21,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
+            },},{id: "news-paper-accepted-at-ieee-transactions-on-medical-imaging",
+          title: 'Paper accepted at *IEEE Transactions on Medical Imaging*',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7.html";
             },},{id: "news-paper-accepted-at-computer-vision-and-pattern-recognition-conference-cvpr-challenge",
           title: 'Paper accepted at *Computer Vision and Pattern Recognition Conference (CVPR) Challenge*',
           description: "",
@@ -46,11 +51,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "news-paper-accepted-at-ieee-transactions-on-ultrasonics",
-          title: 'Paper accepted at *IEEE Transactions on Ultrasonics*',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_7.html";
             },},{id: "news-paper-accepted-at-npj-artificial-intelligence",
           title: 'Paper accepted at *npj Artificial Intelligence*',
           description: "",
