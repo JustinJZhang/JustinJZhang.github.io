@@ -22,7 +22,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
             },},{id: "news-paper-accepted-at-ieee-transactions-on-medical-imaging",
-          title: 'Paper accepted at *IEEE Transactions on Medical Imaging*',
+          title: 'Paper accepted at IEEE Transactions on Medical Imaging',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7.html";
