@@ -32,7 +32,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5.html";
             },},{id: "news-paper-accepted-at-ieee-transactions-on-medical-robotics-and-bionics",
-          title: 'Paper accepted at *IEEE Transactions on Medical Robotics and Bionics*',
+          title: 'Paper accepted at IEEE Transactions on Medical Robotics and Bionics',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6.html";
