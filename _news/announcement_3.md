@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper accepted at *IEEE Journal of Biomedical and Health Informatics*
+title: Paper accepted at IEEE Journal of Biomedical and Health Informatics
 date: 2025-09-18 00:00:00-0400
 inline: false
 related_posts: false
