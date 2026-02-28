@@ -10,3 +10,4 @@ related_posts: false
 
 Jiajing Zhang, Bingze Dai, Wei-Ning Lee
 
+[PDF](/assets/pdf/ius2025_ttt.pdf)
