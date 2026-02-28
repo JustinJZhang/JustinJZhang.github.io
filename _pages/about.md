@@ -8,9 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p> </p>
-    <p> </p>
+  more_info:
+    Email: jiajingz@connect.hku.hk
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,3 +27,7 @@ My research interests include Computer Vision, Deep Learning, and Medical Image 
 🤝 Open to Collaboration: 
 
 If you are interested in deep learning (including LLM, VLM), computer vision, or medical imaging, I am always excited to hear from you. Whether you have an idea to discuss, need technical or data support, or are looking for partners to push the boundaries of AI in healthcare and beyond, feel free to reach out!
+
+💼 Open to Job Market:
+
+I am actively exploring academic/industry research positions, open to part-time, visiting, or exchange opportunities.
