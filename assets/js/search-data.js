@@ -21,11 +21,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-paper-accepted-at-npj-artificial-intelligence",
-          title: 'Paper accepted at *npj Artificial Intelligence*',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1.html";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -34,6 +29,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
+            },},{id: "news-paper-accepted-at-npj-artificial-intelligence",
+          title: 'Paper accepted at *npj Artificial Intelligence*',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
