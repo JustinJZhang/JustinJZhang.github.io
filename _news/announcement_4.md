@@ -1,27 +1,28 @@
 ---
 layout: post
-title: Paper accepted at *IEEE Transactions on Ultrasonics*
-date: 2025-12-29 00:00:00-0400
+title: Oral presented at *IEEE International Symposium on Biomedical Imaging (ISBI)*
+date: 2025-04-14 00:00:00-0400
 inline: false
 related_posts: false
 ---
 
-#### Ultrasound Strain Imaging with Null Subtraction and Coded Plane Waves
+#### ASAM: Anatomy-Encoded Segment Anything Model for Medical Images
 
-Bingze Dai, Zhengchang Kou, Jiajing Zhang, Haotian Guan, Michael L Oelze, Wei-Ning Lee
+Jiajing Zhang, Haotian Guan, Wei-Ning Lee
 
-[PDF](/assets/pdf/dai2025ultrasound.pdf)
-
----
-
-Accurate displacement estimation is central to ultrasound strain imaging, which provides a full description of a 2D/3D deformation field to infer elasticity and detect tissue abnormalities. However, lateral displacement estimation has been the major bottleneck, especially with high frame rate requirements, due to inferior spatial resolution, low sampling, and the lack of phase information in that direction. This study focuses on enhancing lateral displacement estimation by improving the lateral resolution of ultrasound multiangle plane-wave imaging through a nonlinear beamformer, Incoherent Compounding Null Subtraction Imaging (IC-NSI). While IC-NSI effectively reduces both main lobe width and secondary lobe levels, its limited penetration depth and reduced speckle coherence are detrimental to tissue motion estimation. We hereby propose to improve the signal-to-noise ratio (SNR) and thus the penetration depth by integrating cascaded dual-polarity waves (CDW) into IC-NSI. We evaluate the feasibility and performance of IC-NSI, with and without CDW, for tissue displacement estimation through Field II and COMSOL simulations of deforming tubes, phantom experiments, and an in vivo study of the human common carotid artery. Both in silico and in vivo carotid ultrasound images obtained by the proposed method exhibited ∼40% improvement in lateral resolution compared with those by coherent plane wave compounding (CPWC). In phantom experiments, the sonographic SNR improved by 14∼17 dB across depths of 20 to 40 mm and had a 32% reduction in mean absolute error in lateral motion estimation in a controlled linear translation scenario. In simulations, our method achieved 13% higher estimation accuracy in lateral displacement under varying strain conditions compared to CPWC. These results demonstrated the conceptual and computational simplicity of the proposed method for high quality ultrasound strain imaging of thin biological structures.
+[PDF](/assets/pdf/zhang2025asam.pdf)
 
 ---
 
-@article{dai2025ultrasound,
-  title={Ultrasound Strain Imaging with Null Subtraction and Coded Plane Waves},
-  author={Dai, Bingze and Kou, Zhengchang and Zhang, Jiajing and Guan, Haotian and Oelze, Michael L and Lee, Wei-Ning},
-  journal={IEEE Transactions on Ultrasonics},
+SAM is a foundation model for image segmentation, aiming to segment any target in any scene. MedSAM is its pretrained version on medical images and can be generalized to different imaging modalities. However, current studies have overlooked the biggest difference between natural and medical images: anatomical features pertaining to biological tissues. Real-world medical imaging can be conceptualized as a convolution of the system impulse response with its interrogated medium. We herein propose an Anatomy-encoded SAM (ASAM), featuring an unsupervised cross-attention to emulate the imaging process, where the values of full-image, anatomy, and modality characteristics constrain each other in every attention operation via convolution and deconvolution in Fourier domain. Specifically, anatomy values are extracted from full-image values by deconvolution with modality values. ASAM focuses on CT, MR, US, X-ray, and PET modalities, and is trained on 37 large-scale public datasets. ASAM achieves a high average Dice of 91.46%, thereby being an advanced foundation model for medical image segmentation.
+
+---
+
+@inproceedings{zhang2025asam,
+  title={ASAM: Anatomy-Encoded Segment Anything Model for Medical Images},
+  author={Zhang, Jiajing and Guan, Haotian and Lee, Wei-Ning},
+  booktitle={2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)},
+  pages={1--5},
   year={2025},
-  publisher={IEEE}
+  organization={IEEE}
 }
