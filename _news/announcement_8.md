@@ -8,6 +8,6 @@ related_posts: false
 
 #### A Multilevel Sensing Adversarial Framework for Signal Recovery in Ultrafast Ultrasound 
 
-Jiajing Zhang, Bingze Dai, Wei-Ning Lee
+Jiajing Zhang, Wei-Ning Lee
 
 [PDF](/assets/pdf/juffc2024.pdf)
