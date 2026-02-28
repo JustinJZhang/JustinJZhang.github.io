@@ -21,11 +21,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
             },},{id: "news-paper-accepted-at-npj-artificial-intelligence",
           title: 'Paper accepted at *npj Artificial Intelligence*',
           description: "",
@@ -34,7 +29,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-paper-accepted-at-ieee-transactions-on-ultrasonics",
+          title: 'Paper accepted at *IEEE Transactions on Ultrasonics*',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2.html";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
