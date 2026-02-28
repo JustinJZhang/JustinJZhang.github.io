@@ -21,6 +21,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
+            },},{id: "news-oral-presented-at-ieee-international-symposium-on-biomedical-imaging-isbi",
+          title: 'Oral presented at *IEEE International Symposium on Biomedical Imaging (ISBI)*',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4.html";
             },},{id: "news-paper-accepted-at-ieee-journal-of-biomedical-and-health-informatics",
           title: 'Paper accepted at *IEEE Journal of Biomedical and Health Informatics*',
           description: "",
@@ -31,11 +36,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "news-paper-accepted-at-ieee-transactions-on-ultrasonics",
-          title: 'Paper accepted at *IEEE Transactions on Ultrasonics*',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4.html";
             },},{id: "news-paper-accepted-at-npj-artificial-intelligence",
           title: 'Paper accepted at *npj Artificial Intelligence*',
           description: "",
