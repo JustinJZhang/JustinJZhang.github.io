@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper accepted at *npj Artificial Intelligence*
+title: Paper accepted at npj Artificial Intelligence
 date: 2026-01-07 00:00:00-0400
 inline: false
 related_posts: false
