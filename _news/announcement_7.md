@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paper accepted at *IEEE Transactions on Medical Imaging*"
+title: Paper accepted at IEEE Transactions on Medical Imaging
 date: 2023-01-30 00:00:00-0400
 inline: false
 related_posts: false
