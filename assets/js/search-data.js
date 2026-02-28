@@ -36,11 +36,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6.html";
+            },},{id: "news-oral-presented-at-2024-ieee-ultrasonics-ferroelectrics-and-frequency-control-joint-symposium-ius",
+          title: 'Oral presented at 2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (IUS)...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_8.html";
             },},{id: "news-oral-presented-at-2025-ieee-international-symposium-on-biomedical-imaging-isbi",
           title: 'Oral presented at 2025 IEEE International Symposium on Biomedical Imaging (ISBI)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4.html";
+            },},{id: "news-oral-presented-at-2025-ieee-international-ultrasonics-symposium-ius",
+          title: 'Oral presented at *2025 IEEE International Ultrasonics Symposium (IUS)*',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_9.html";
             },},{id: "news-poster-presented-at-2025-ieee-international-ultrasonics-symposium-ius",
           title: 'Poster presented at 2025 IEEE International Ultrasonics Symposium (IUS)',
           description: "",
@@ -61,16 +71,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1.html";
-            },},{id: "news-",
-          title: '',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_8.html";
-            },},{id: "news-oral-presented-at-2025-ieee-international-ultrasonics-symposium-ius",
-          title: 'Oral presented at *2025 IEEE International Ultrasonics Symposium (IUS)*',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_9.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
