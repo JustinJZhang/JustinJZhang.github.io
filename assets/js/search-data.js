@@ -57,7 +57,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10.html";
             },},{id: "news-paper-accepted-at-ieee-journal-of-biomedical-and-health-informatics",
-          title: 'Paper accepted at *IEEE Journal of Biomedical and Health Informatics*',
+          title: 'Paper accepted at IEEE Journal of Biomedical and Health Informatics',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3.html";
