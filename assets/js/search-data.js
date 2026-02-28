@@ -56,6 +56,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
+            },},{id: "news-paper-accepted-at-ieee-transactions-on-ultrasonics",
+          title: 'Paper accepted at *IEEE Transactions on Ultrasonics*',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_9.html";
             },},{id: "news-paper-accepted-at-npj-artificial-intelligence",
           title: 'Paper accepted at *npj Artificial Intelligence*',
           description: "",
