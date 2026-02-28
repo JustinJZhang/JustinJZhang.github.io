@@ -67,7 +67,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
             },},{id: "news-paper-accepted-at-npj-artificial-intelligence",
-          title: 'Paper accepted at *npj Artificial Intelligence*',
+          title: 'Paper accepted at npj Artificial Intelligence',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1.html";
