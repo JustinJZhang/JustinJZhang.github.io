@@ -103,13 +103,6 @@ ninja.data = [{
           window.open("https://ieeexplore.ieee.org/author/ieeexplore.ieee.org/author/37089862108/", "_blank");
         },
       },{
-        id: 'social-whatsapp',
-        title: 'whatsapp',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://wa.me/85269302942", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
