@@ -159,7 +159,7 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
-  - jekyll/
+  - jekyll/scholar
   - jekyll-sitemap
   - jekyll-socials
   - jekyll-tabs
