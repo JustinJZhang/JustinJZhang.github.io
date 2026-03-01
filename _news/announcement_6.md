@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paper accepted at IEEE Transactions on Medical Robotics and Bionics"
+title: Paper accepted at IEEE Transactions on Medical Robotics and Bionics
 date: 2024-09-19 00:00:00-0400
 inline: false
 related_posts: false
@@ -18,4 +18,4 @@ Robotic-assisted implantation of screw-rod systems serves as an advanced therapy
 
 ---
 
-This work was also awarded as an Outstanding Undergraduate Thesis.
+This work was awarded as an Outstanding Undergraduate Thesis.
