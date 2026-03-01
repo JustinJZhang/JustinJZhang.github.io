@@ -8,7 +8,7 @@ related_posts: false
 
 #### Hierarchical perception adversarial learning framework for compressed sensing MRI
 
-Bingze Dai, Zhengchang Kou, Jiajing Zhang, Haotian Guan, Michael L Oelze, Wei-Ning Lee
+Zhifan Gao, Yifeng Guo, Jiajing Zhang, Tieyong Zeng, Guang Yang
 
 [PDF](/assets/pdf/gao2023hierarchical.pdf)
 
