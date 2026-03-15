@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://JustinJZhang.github.io/sitemap.xml
+Sitemap: https://jiajingzhang.github.io/sitemap.xml
